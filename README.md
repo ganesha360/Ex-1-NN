@@ -1,5 +1,5 @@
-<H3>NAME:  NIVESHA P</H3>
-<H3>REG NO: 212222040108</H3>
+<H3>NAME:  GANESH R
+<H3>REG NO: 212222240029
 <H3>EX. NO.1</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
